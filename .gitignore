@@ -1,0 +1,20 @@
+# Ignore python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore local virtual environments
+venv/
+.venv/
+env/
+
+# Ignore heavy data folders and model weights
+data/
+*.h5
+*.pth
+*.pkl
+dataset/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
