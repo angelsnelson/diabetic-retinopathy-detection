@@ -19,9 +19,14 @@ diabetic-retinopathy-detection/
 │   ├── model.py           # Deep learning architecture (EfficientNetB0 Transfer Learning)
 │   ├── train.py           # Optimization configurations & resource-saving callbacks
 │   └── predict.py         # Clinical inference pipeline mapping numbers to diagnoses
+
+
 ##  How to Run the Production Pipeline
 
+
 ### 1. Environment Setup
+
 Install the required deep learning and medical image processing dependencies:
+
 ```bash
 pip install -r requirements.txt
