@@ -20,7 +20,7 @@ diabetic-retinopathy-detection/
 │   ├── train.py           # Optimization configurations & resource-saving callbacks
 │   └── predict.py         # Clinical inference pipeline mapping numbers to diagnoses
 
-
+```
 ##  How to Run the Production Pipeline
 
 
